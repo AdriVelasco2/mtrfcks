@@ -51,7 +51,7 @@ export default function SelectorNombres() {
     // Crear un enlace para descargar la imagen
     const link = document.createElement('a');
     link.href = data;
-    link.download = 'nombres_seleccionados_con_fondo.png';
+    link.download = 'alineacion.png';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
