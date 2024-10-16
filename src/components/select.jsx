@@ -68,9 +68,9 @@ export default function SelectorNombres() {
           value={selectedNames[index].select1} // Valor único para cada select
           onChange={(e) => handleSelectChange(index, 'select1', e.target.value)}
         >
-          <option  value="">Selecciona un nombre</option>
+          <option className="text-black"  value="">Selecciona un nombre</option>
           {nombres.map((nombre, idx) => (
-            <option  key={idx} value={nombre}>
+            <option className="text-black" key={idx} value={nombre}>
               {nombre}
             </option>
           ))}
@@ -78,7 +78,7 @@ export default function SelectorNombres() {
 
         {/* Select 2 */}
         <select
-          className="flex-1 md:text-white mb-3 md:mb-2 md:mr-4 font-bold text-center text-xl bg-transparent focus:outline-none focus:ring-2 focus:ring-red-500"
+          className="flex-1  mb-3 md:mb-2 md:mr-4 font-bold text-center text-xl bg-transparent focus:outline-none focus:ring-2 focus:ring-red-500"
           value={selectedNames[index].select2} // Valor único para cada select
           onChange={(e) => handleSelectChange(index, 'select2', e.target.value)}
         >
@@ -95,9 +95,9 @@ export default function SelectorNombres() {
 
   return (
     <div className="max-w-2xl mx-auto p-4 ">
-      <div ref={captureRef} className="mb-6 border-2 border-red-400 bg-[url('../img/culo.jpg')] sm:bg-[url('../img/piernas.jpg')] bg-cover bg-center text-white rounded-sm p-6">
+      <div ref={captureRef} className="mb-6 border-2 border-red-400 bg-[url('../img/culo.jpg')] sm:bg-[url('../img/piernas.jpg')] bg-cover bg-center  rounded-sm p-6">
       <div className="flex flex-col items-center p-4">
-      <h1 className="text-2xl font-bold mb-2 text-center bg-white bg-opacity-15 p-4 rounded-xl text-white">Alineación</h1>
+      <h1 className="text-2xl font-bold mb-2 text-center bg-white md:bg-black md:bg-opacity-15 bg-opacity-15 p-4 rounded-xl text-white">Alineación</h1>
       
     </div>
         {/* Contenedor que queremos capturar */}
