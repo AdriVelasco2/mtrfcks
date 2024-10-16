@@ -95,14 +95,10 @@ export default function SelectorNombres() {
 
   return (
     <div className="max-w-2xl mx-auto p-4 ">
-      <div ref={captureRef} className="mb-6 border-2 border-red-400 bg-[url('../img/aurora.jpg')] sm:bg-[url('../img/piernas.jpg')] bg-cover bg-center text-black rounded-sm p-6">
+      <div ref={captureRef} className="mb-6 border-2 border-red-400 bg-[url('../img/culo.jpg')] sm:bg-[url('../img/piernas.jpg')] bg-cover bg-center text-white rounded-sm p-6">
       <div className="flex flex-col items-center p-4">
-      <h1 className="text-2xl font-bold mb-2 text-center bg-white bg-opacity-15 p-4 rounded-xl md:text-white">Alineación</h1>
-      <img
-        src="/img/logowpc.png" // Ruta a tu imagen PNG
-        alt="Descripción del ícono"
-        className="h-14 w-24 " // Tamaño de la imagen
-      />
+      <h1 className="text-2xl font-bold mb-2 text-center bg-white bg-opacity-15 p-4 rounded-xl text-white">Alineación</h1>
+      
     </div>
         {/* Contenedor que queremos capturar */}
         {renderRows()}
