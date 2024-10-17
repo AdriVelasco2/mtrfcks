@@ -8,7 +8,7 @@ const HolidayBanner = () => {
         className="bg-cover bg-no-repeat w-full bg-center"
         style={{
           backgroundImage:
-            "url('https://img-mobile.rubias19.com/videos/20554/20554_panoramic.jpg')",
+            "url('')",
         }}
       >
         <h1 className="py-10 font-black text-8xl md:text-9xl bg-red-800 mix-blend-multiply uppercase text-center">

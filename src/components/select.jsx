@@ -95,7 +95,7 @@ export default function SelectorNombres() {
 
   return (
     <div className="max-w-2xl mx-auto p-4 ">
-      <div ref={captureRef} className="mb-6 border-2 border-red-400 bg-[url('../img/culo.jpg')] sm:bg-[url('../img/piernas.jpg')] bg-cover bg-center  rounded-sm p-6">
+      <div ref={captureRef} className="mb-6 border-2 border-red-400 bg-[url('')] sm:bg-[url('')] bg-cover bg-center  rounded-sm p-6">
       <div className="flex flex-col items-center p-4">
       <h1 className="text-2xl font-bold mb-2 text-center bg-white md:bg-black md:bg-opacity-15 bg-opacity-15 p-4 rounded-xl text-white">Alineación</h1>
       

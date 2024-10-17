@@ -34,7 +34,7 @@ const DummyContent = () => {
           
           </p>
           <img
-            src="https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/50-estrellas-desnudas-por-exigencias-del-guion/alexandra-daddario/95890969-1-esl-ES/Alexandra-Daddario.jpg"
+            src=""
             alt="Macbook mockup from Aceternity UI"
             height="700"
             width="700"
@@ -49,61 +49,61 @@ const data = [
   {
     category: "Jornada 1",
     title: "Lateral (L)",
-    src: "https://cdn.asianporngif.com/118902/bangn-lea-hart.gif",
+    src: "",
     content: <DummyContent />,
   },
   {
     category: "Jornada 2",
     title: "Nortseco-El Moscón (V)",
-    src: "https://ist3-2.filesor.com/pimpandhost.com/1/5/5/8/155842/3/X/C/z/3XCzl/tumblr_mh7uz7eaSr1s1yxd2o1_500.gif",
+    src: "",
     content: "Por definir",
   },
   {
     category: "Jornada 3",
     title: "Villaoril club de pádel - fugitivos (L)",
-    src: "https://hardcoregify.com/content/2019/08/agfe_001-78.gif",
+    src: "",
     content: "WPC 26 de octubre",
   },
   {
     category: "Jornada 4",
     title: "Drive pádel(V)",
-    src: "https://68.media.tumblr.com/c28225d38ca2ebd64cca0d474488638a/tumblr_ovw128bWkq1w66xryo1_540.gif",
+    src: "",
     content: "Drive padel 10 de noviembre",
   },
   {
     category: "Jornada 5",
     title: "Descansa",
-    src: "https://sexxxgif.com/content/2022/04/when-she-makes-herself-come-and-your-cocks-up-her-ass-ladies-learn-this-its-hot-af_001.webp",
+    src: "",
     content: "23/24 de noviembre",
   },
   {
     category: "Jornada 6",
     title: "Lateral (V)",
-    src: "https://cdn.asianporngif.com/118902/bangn-lea-hart.gif",
+    src: "",
     content: "Lateral 14/15 de diciembre",
   },
   {
     category: "Jornada 7",
     title: "Nortseco-CP MOSCÓN (L)",
-    src: "https://ist3-2.filesor.com/pimpandhost.com/1/5/5/8/155842/3/X/C/z/3XCzl/tumblr_mh7uz7eaSr1s1yxd2o1_500.gif",
+    src: "",
     content: "11/12 de enero",
   },
   {
     category: "Jornada 8",
     title: "Villaoril club de pádel (fugitivos) (V)",
-    src: "https://hardcoregify.com/content/2019/08/agfe_001-78.gif",
+    src: "",
     content: "Paidesport 26 de enero",
   },
   {
     category: "Jornada 9",
     title: "Drive pádel(L)",
-    src: "https://68.media.tumblr.com/c28225d38ca2ebd64cca0d474488638a/tumblr_ovw128bWkq1w66xryo1_540.gif",
+    src: "",
     content: "Drive pádel 1 de febrero",
   },
   {
     category: "Jornada 10",
     title: "Descansamos",
-    src: "https://sexxxgif.com/content/2022/04/when-she-makes-herself-come-and-your-cocks-up-her-ass-ladies-learn-this-its-hot-af_001.webp",
+    src: "",
     content: "16 de febrero",
   },
 ];
