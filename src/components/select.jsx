@@ -78,7 +78,7 @@ export default function SelectorNombres() {
 
         {/* Select 2 */}
         <select
-          className="flex-1  mb-3 md:mb-2 md:mr-4 font-bold text-center text-xl bg-transparent focus:outline-none focus:ring-2 focus:ring-red-500"
+          className="flex-1 md:text-white mb-3 md:mb-2 md:mr-4 font-bold text-center text-xl bg-transparent focus:outline-none focus:ring-2 focus:ring-red-500"
           value={selectedNames[index].select2} // Valor único para cada select
           onChange={(e) => handleSelectChange(index, 'select2', e.target.value)}
         >
