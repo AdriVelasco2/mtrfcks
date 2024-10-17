@@ -107,7 +107,7 @@ export default function SelectorNombres() {
       {/* Botón para descargar la imagen */}
       <button
         onClick={handleDownloadImage}
-        className="w-full md:w-auto px-6 py-2 bg-teal-700 text-white font-bold rounded-lg shadow-lg hover:bg-blue-600 transition-colors"
+        className="w-full md:w-auto px-6 py-2 bg-red-600 border-2 border-yellow-400 text-white font-bold rounded-lg shadow-lg hover:bg-blue-600 transition-colors"
       >
         Descargar Imagen
       </button>
