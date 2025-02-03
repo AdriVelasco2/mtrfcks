@@ -179,7 +179,7 @@ export const Card = ({
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            className="bg-neutral-700/80 backdrop-blur-lg h-full w-full fixed inset-0" />
+            className="bg-neutral-700/80  h-full w-full fixed inset-0" />
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
@@ -245,7 +245,7 @@ export const BlurImage = ({
   const [isLoading, setLoading] = useState(true);
   return (
     (<img
-      className={cn("transition duration-300 ", isLoading ? "blur-sm " : "blur-0", className)}
+      className={cn("transition duration-300 ", isLoading ? "blur-0 " : "blur-0", className)}
       onLoad={() => setLoading(false)}
       src={src}
       width={width}
