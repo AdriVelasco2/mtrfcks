@@ -56,7 +56,7 @@ const data = [
   {
     category: "Jornada 3",
     title: "COVER PADEL uno90 (V)",
-    src: "http://www.coverpadel.es/CoverPadelNueva/img/logo.png",
+    src: "https://th.bing.com/th/id/R.724a9ecbce3ddf805fa51db6cd7cf01a?rik=rhZMqVEJ3CEhjg&riu=http%3a%2f%2fwww.coverpadel.es%2fCoverPadelNueva%2fimg%2flogo.png&ehk=A1cVQBzH1Egj76KBRh2LVn3TSYkgBRqXlBJy0g7QEz0%3d&risl=&pid=ImgRaw&r=0",
     content: "Lugar: Cover Pádel Olloniego Fecha: 02/03/2025 12:00",
   },
   {
@@ -86,7 +86,7 @@ const data = [
   {
     category: "Jornada 8",
     title: "COVER PADEL uno90 (L)",
-    src: "http://www.coverpadel.es/CoverPadelNueva/img/logo.png",
+    src: "https://th.bing.com/th/id/R.724a9ecbce3ddf805fa51db6cd7cf01a?rik=rhZMqVEJ3CEhjg&riu=http%3a%2f%2fwww.coverpadel.es%2fCoverPadelNueva%2fimg%2flogo.png&ehk=A1cVQBzH1Egj76KBRh2LVn3TSYkgBRqXlBJy0g7QEz0%3d&risl=&pid=ImgRaw&r=0",
     content: "Lugar: Paidesport Parqueastur Fecha: 04/05/2025 11:30",
   },
   {
